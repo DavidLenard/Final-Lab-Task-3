@@ -1,4 +1,4 @@
-# [Finals Lab Task 3 - Table Manipulation]
+# [Finals Lab Task 3 - Table Manipulation](https://github.com/DavidLenard/Final-Lab-Task-3/blob/main/Assets/FinalLabTask3_David.docx)
 
 # Step by Step Process:
 1. **Create the Table**  
