@@ -1,4 +1,4 @@
-# [Finals Lab Task 3 - Table Manipulation](https://github.com/user-attachments/files/19718488/Finals.Lab.Task.3.-.Manarang.docx)
+# [Finals Lab Task 3 - Table Manipulation]
 
 # Step by Step Process:
 1. **Create the Table**  
